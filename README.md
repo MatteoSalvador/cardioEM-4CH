@@ -40,7 +40,7 @@ git clone https://github.com/MatteoSalvador/cardioEM-4CH.git
 
 ## References
 
-[1] M. Salvador, M. Strocchi, F. Regazzoni, C. Augustin, L. Dede', S. A. Niederer, A. Quarteroni. [Whole-heart electromechanical simulations using Latent Neural Ordinary Differential Equations](https://arxiv.org/abs/2306.05321). *npj Digital Medicine* (2024).
+[1] M. Salvador, M. Strocchi, F. Regazzoni, C. Augustin, L. Dede', S. A. Niederer, A. Quarteroni. [Whole-heart electromechanical simulations using Latent Neural Ordinary Differential Equations](https://www.nature.com/articles/s41746-024-01084-x). *npj Digital Medicine* (2024).
 
 [2] M. Salvador, F. Regazzoni, L. Dede', A. Quarteroni. [Fast and robust parameter estimation with uncertainty quantification for the cardiac function](https://www.sciencedirect.com/science/article/pii/S016926072300069X). *Computer Methods and Programs in Biomedicine* (2023).
 
