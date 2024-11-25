@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c11e10770b52e19d58d74ea580383347d8278030788c0cf277e25ae85729954d
-size 245
+{
+  "LA": {
+      "volume" : 0,
+      "pressure" : 0
+      },
+  "LV": {
+      "volume" : 1,
+      "pressure" : 0  
+      },
+  "RA": {
+      "volume" : 0,
+      "pressure" : 0
+      },
+  "RV": {
+      "volume" : 0,
+      "pressure" : 0
+      }
+}
